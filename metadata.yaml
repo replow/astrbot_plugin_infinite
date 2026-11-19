@@ -1,0 +1,6 @@
+name: astrbot_plugin_infinite
+display_name: 无限二代
+desc: 按会话控制无限二代提示词与回复风格。
+version: v1.0.0
+author: OpenAI
+astrbot_version: ">=4.29.1,<5"
